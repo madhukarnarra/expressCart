@@ -19,7 +19,7 @@
     "customCss": "",
     "currencySymbol": "$",
     "paymentGateway": "paypal",
-    "databaseConnectionString": "mongodb://mongodb:27017/expresscart",
+    "databaseConnectionString": "mongodb+srv://madhukar2sri@gmail.com:mad2vysh@cluster0-w4z50.mongodb.net/test?retryWrites=true&w=majority",
     "theme": "Cloth",
     "trackStock": false,
     "orderHook": "",
