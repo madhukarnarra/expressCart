@@ -19,7 +19,7 @@
     "customCss": "",
     "currencySymbol": "$",
     "paymentGateway": "paypal",
-    "databaseConnectionString": "mongodb+srv://madhukar:narra@cluster0-sgxnh.mongodb.net/test?retryWrites=true&w=majority",
+    "databaseConnectionString": "mongodb+srv://test:test@cluster0-sgxnh.mongodb.net/test?retryWrites=true&w=majority",
     "theme": "Cloth",
     "trackStock": false,
     "orderHook": "",
