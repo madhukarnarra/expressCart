@@ -19,7 +19,7 @@
     "customCss": "",
     "currencySymbol": "$",
     "paymentGateway": "paypal",
-    "databaseConnectionString": "mongodb+srv://madhu:madhu@cluster0-w4z50.mongodb.net/test?authSource=admin&replicaSet=Cluster0-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
+    "databaseConnectionString": "mongodb+srv://madhu:madhu@cluster0-w4z50.mongodb.net/test?retryWrites=true&w=majority",
     "theme": "Cloth",
     "trackStock": false,
     "orderHook": "",
