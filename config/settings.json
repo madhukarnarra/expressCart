@@ -2,7 +2,7 @@
     "cartTitle": "CLOTH",
     "cartDescription": "expressCart",
     "cartLogo": "",
-    "baseUrl": "http://localhost:1111",
+    "baseUrl": "https://expresscart-madhu.herokuapp.com/",
     "emailHost": "smtp-mail.outlook.com",
     "emailPort": 587,
     "emailSecure": false,
