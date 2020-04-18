@@ -1,0 +1,51 @@
+{
+    "cartTitle": "CLOTH",
+    "cartDescription": "expressCart",
+    "cartLogo": "",
+    "baseUrl": "http://localhost:1111",
+    "emailHost": "smtp-mail.outlook.com",
+    "emailPort": 587,
+    "emailSecure": false,
+    "emailUser": "hi@markmoffat.com",
+    "emailPassword": "this_is_the_smtp_password",
+    "emailAddress": "hi@markmoffat.com",
+    "menuEnabled": true,
+    "productsPerRow": 3,
+    "productsPerPage": 6,
+    "menuTitle": "Menu",
+    "footerHtml": "&lt;h4 class=&quot;text-center&quot;&gt;Powered by expressCart&lt;/h4&gt;",
+    "googleAnalytics": "",
+    "injectJs": "",
+    "customCss": "",
+    "currencySymbol": "$",
+    "paymentGateway": "paypal",
+    "databaseConnectionString": "mongodb://mongodb:27017/expresscart",
+    "theme": "Cloth",
+    "trackStock": false,
+    "orderHook": "",
+    "availableLanguages": [
+        "en",
+        "it"
+    ],
+    "defaultLocale": "en",
+    "maxQuantity": 25,
+    "twitterHandle": "",
+    "facebookAppId": "",
+    "productOrderBy": "date",
+    "productOrder": "descending",
+    "modules": {
+        "enabled": {
+            "shipping": "shipping-basic",
+            "discount": "discount-voucher"
+        },
+        "loaded": {
+            "shipping": {},
+            "discount": {}
+        }
+    },
+    "showRelatedProducts": true,
+    "secretCookie": "73b95abad7035363653dd6b25b02254f57022e5a",
+    "secretSession": "596e2921d548b8c31ed10392cec753987c16d3e0",
+    "themeViews": "../views/themes/Cloth/",
+    "env": ".min"
+}
